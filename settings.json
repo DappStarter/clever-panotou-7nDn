@@ -1,0 +1,16 @@
+{
+    "name": "Try",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "SSS",
+        "/category/asset_value_tracking/core-token/symbol": "sss",
+        "/category/asset_value_tracking/core-token/decimals": "2",
+        "/category/asset_value_tracking/core-token/supply": "100000000"
+    }
+}
